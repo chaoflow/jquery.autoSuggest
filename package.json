@@ -1,6 +1,7 @@
 {
   "name": "autoSuggest",
   "title": "AutoSuggest jquery plugin",
+  "description": "AutoSuggest jquery plugin",
   "version": "1.4",
   "author": {
     "name": "Drew Wilson",
