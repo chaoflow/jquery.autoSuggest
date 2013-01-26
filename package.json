@@ -6,8 +6,16 @@
     "name": "Drew Wilson",
     "url": "http://code.drewwilson.com/"
   },
-  ],
-  ],
+  "licenses": [
+  {
+    "type": "GPL",
+    "url": "http://www.gnu.org/licenses/gpl.html",
+  },
+  {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }
+  ]
   "homepage": "http://code.drewwilson.com/entry/autosuggest-jquery-plugin",
   "docs": "http://code.drewwilson.com/entry/autosuggest-jquery-plugin",
   "dependencies": {
